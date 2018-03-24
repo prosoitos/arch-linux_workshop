@@ -4,19 +4,21 @@
 #+OPTIONS: f:t inline:t tasks:t tex:t timestamp:t
 #+OPTIONS: html-preamble:t html-postamble:nil
 
-#+TITLE:   Arch Linux
+#+TITLE:   Presenting Arch Linux
 #+DATE:	   {{{time(%B %d\, %Y)}}}
 #+AUTHOR:  Marie-Hélène Burle
 #+EMAIL:   msb2@sfu.ca
 
-Presenting Arch Linux:
+Is your Operating System Windows, macOS, or a prepackaged linux distribution running "out-of-the box" (e.g. Ubuntu) and are you curious to hear about Arch Linux?
 
-Is your Operating System Windows, macOS, or a prepackaged linux distribution running "out-of-the box" like Ubuntu and are you curious to hear about Arch Linux?
+I will introduce this rolling release linux distribution which [[https://en.wikipedia.org/wiki/Arch_Linux]["focuses on elegance, code correctness, minimalism and simplicity, and expects the user to be willing to make some effort to understand the system's operation"]]. Arch Linux relies on the [[https://en.wikipedia.org/wiki/KISS_principle][KISS principle]] ("keep it simple, stupid"): no bloatware, nothing installed that you might not want, no hidden complexity. It has a beautiful [[https://wiki.archlinux.org/][Wiki]], so well done that it serves as a reference for many on other linux distributions, and a very helpful community.
 
-I will introduce this linux distribution which [["focuses on elegance, code correctness, minimalism and simplicity, and expects the user to be willing to make some effort to understand the system's operation"][https://en.wikipedia.org/wiki/Arch_Linux]]. It relies on the [[KISS principle][https://en.wikipedia.org/wiki/KISS_principle]] ("keep it simple, stupid"): no bloatware, nothing installed that you might not want, no hidden complexity. Arch has a beautiful [[Wiki][https://wiki.archlinux.org/]], so well done that it serves as a reference for many on other linux distributions, and a very helpful community. Obviously, the necessary consequence of its philosophy is that it requires some investment as you will have to set and install everything you need.
+Obviously, the necessary consequence of its philosophy is that it requires some investment as you will have to set and install everything you need. But the advantages are many:
+
+- you build your own system, having total control over which desktop environment, software, etc. you want (no two Arch Linux installations will look alike)
+- you will get to know your system intimately and be able to customize it in its slightest details
+- your installation can be very light, if you choose so, and very fast
 
 If you have always been curious—or maybe even tempted—to make a big jump and go linux, this workshop is for you!
 
-I will present the basic functioning of this OS and some of the tools that can make a workflow on linux really fun.
-
-The workshop is open to all and those interested in playing with Arch are welcome to install it using VirtualBox (this is not necessary and you are welcome to just sit and watch).
+I will first talk about advantages of linux distributions in general and show some of the cool tools that can make a workflow on linux really fun. I will try to answer questions you might have and to demystify linux. Then I will talk about Arch Linux in particular and compare it with other common linux distributions.
